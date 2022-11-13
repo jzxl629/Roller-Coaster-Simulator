@@ -1,0 +1,10 @@
+Features:
+
+- The normals are calculated using three vectors tangent, normal and binormal. I initialized an arbitrary vector for N0. 
+- The camera is pointing to the tangent of the track from a point on the track, the up vector is determined by the normal vector at that point.
+
+
+Extra credit:
+- Render double rail
+- Render a T-shaped rail cross-section
+- I added a support structure but it only works with the rollerCoaster spline file.
